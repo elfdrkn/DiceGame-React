@@ -1,7 +1,6 @@
 # Dice Game
-
-## This is a simple dice game where Player 1 (User) plays against Player 2 (PC). 
-## The game is designed to roll the dice for each player and display the winner, loser, or a draw after each round. Player 1 can update their username if they choose.
+ This is a simple dice game where Player 1 (User) plays against Player 2 (PC). 
+ The game is designed to roll the dice for each player and display the winner, loser, or a draw after each round. Player 1 can update their username if they choose.
 
 ## Features
 -Player 1 (User) vs Player 2 (PC)
