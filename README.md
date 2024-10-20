@@ -1,8 +1,21 @@
-# React + Vite
+## Dice Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# This is a simple dice game where Player 1 (User) plays against Player 2 (PC). 
+# The game is designed to roll the dice for each player and display the winner, loser, or a draw after each round. Player 1 can update their username if they choose.
 
-Currently, two official plugins are available:
+# Features
+-Player 1 (User) vs Player 2 (PC)
+-Random dice roll for each player
+-Display of winner, loser, or draw after each round
+-Option for Player 1 to update their username
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Demo
+Check out the live version of the game here: https://guileless-gecko-4be9e9.netlify.app/
+
+## Good Luck!
+
+# Acknowledgments
+-React and Vite for the framework
+-HTML, CSS, JavaScript
+-Bootstrap
+-FontAwesome icons
